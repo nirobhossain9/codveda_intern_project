@@ -28,8 +28,8 @@ This internship project involved hands-on application of data analytics techniqu
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Statsmodels
 - TextBlob, nltk, WordCloud
-- Power BI / Tableau (for dashboards)
-- Jupyter Notebook / VS Code
+- Power BI (for dashboards)
+- Google Colab notebook
 
 ---
 
